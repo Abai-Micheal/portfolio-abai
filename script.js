@@ -64,3 +64,4 @@ submit.addEventListener("click", function (e) {
     location.reload();
   }
 });
+console.log("Welcome to ABAI CHIBUZOR PORTFOLIO");
